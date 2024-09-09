@@ -4,3 +4,9 @@ python module subprocess execute the system command on the availabel operatiing 
 This script works for linux change the interface and ifconfig syntax to the desired operating system.
 you can use pythex to filter out serach result.
 
+
+####################################################################################################################
+Installation process------>
+apt install git
+git clone 
+
